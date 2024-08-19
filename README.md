@@ -1,2 +1,2 @@
-# breast-cancer-classification
+# Breast Cancer Classification
 Breast Cancer Classification
